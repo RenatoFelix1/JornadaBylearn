@@ -1,0 +1,13 @@
+# Calculadora da Bylearn
+
+#Entrada dos numeros 
+
+primeiro_numero = float(input('Digite o primeiro numero'))
+segundo_numero = float(input('Digite o segundo numero'))
+
+#operações matemáticas
+
+soma = primeiro_numero + segundo_numero
+subtracacao = primeiro_numero - segundo_numero
+divisao = primeiro_numero / segundo_numero
+multiplicacao = primeiro_numero * segundo_numero
